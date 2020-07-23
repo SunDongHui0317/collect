@@ -1,2 +1,2 @@
 # collect
-Collect some interesting things
+Collect some interesting things and make life colorful.
